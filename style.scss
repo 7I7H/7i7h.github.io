@@ -4,6 +4,13 @@
 //
 // IMPORTS
 //
+@charset "utf-8";
+@font-face {
+    font-family: 'HangeulNuri-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/HangeulNuri-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 @import "reset";
 @import "variables";
@@ -14,10 +21,12 @@
 /**************/
 
 html {
+	font-family: 'HangeulNuri-Bold';
   font-size: 100%;
 }
 
 body {
+	font-family: 'HangeulNuri-Bold';
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
