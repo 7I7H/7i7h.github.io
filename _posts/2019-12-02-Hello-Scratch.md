@@ -14,9 +14,22 @@ title: 첫 번째 팀프로젝트
 
 <br>
 ![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_logo.PNG)
+-게임 시작 화면-
 <br>
 
- 게임은 하늘에서 떨어지는 A학점을 획득하고 F학점을 피하여, 일정 시간동안 최대한 많은 점수를 얻는 것이 목표이다. F학점을 5번 받을 경우 시간이 남더라도 게임은 
-종료가 된다. <br>
-![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_playing.PNG)<br>
+ 게임은 하늘에서 떨어지는 A학점을 획득하고 F학점을 피하여, 90초동안 최대한 많은 점수를 얻는 것이 목표이다. F학점을 5번 받을 경우 시간이 남더라도 게임은 
+종료가 된다. 상, 좌, 우 방향키 혹은 w,a,d 키를 눌러 이동을 하고 점프를 할 수 있다.
+<br>
+![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_playing.PNG)
+-게임 플레이 초반 부분-
+<br>
 
+ 학점 A와 F의 색상을 비슷하게 하였으며 후반으로 갈수록 A와 F학점을 구분하기 힘들어 실수를 하기 쉬워진다.
+ ![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_almost.PNG)
+ -게임 플레이 후반 부분-
+ <br>
+ 
+  90초동안 버티고 나면, 2000점 이상은 A학점, 1600점 이상은 B학점, 1200점 이상은 C학점, 700점 이상이 D학점이며 그 밑은 F학점을 받는다.
+ ![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_end.PNG)
+-게임의 끝-
+<br>
