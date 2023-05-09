@@ -1,0 +1,35 @@
+---
+layout: post
+title: 첫 번째 1인개발
+---
+
+인원: 1인 <br>
+프로젝트 기간: 1개월 <br>
+사용 프로그램: UNITY <br>
+프로젝트 제목: 과제 뿌셔뿌셔
+담당한 부분: 게임의 방향성과 틀 제작, 일부 그래픽 담당 <br>
+
+ 초기에는 파이썬이나 유니티를 이용하여 개발을 하려고 하였으나, 팀원간의 의견이 좁혀지지 않아 결국 급하게 스크레치를 이용하게 되었다. 비록 단순한 프로그램이지만 
+코딩에 대한 부담이 없었으며 게임에 대한 시스템을 이해할 수 있는 좋은 기회를 가질 수 있었다. 
+
+<br>
+![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_logo.PNG)<br>
+-게임 시작 화면-
+<br>
+
+ 게임은 하늘에서 떨어지는 A학점을 획득하고 F학점을 피하여, 90초동안 최대한 많은 점수를 얻는 것이 목표이다. F학점을 5번 받을 경우 시간이 남더라도 게임은 
+종료가 된다. 상, 좌, 우 방향키 혹은 w,a,d 키를 눌러 이동을 하고 점프를 할 수 있다.
+<br>
+![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_playing.PNG)<br>
+-게임 플레이 초반 부분-
+<br>
+
+ 학점 A와 F의 색상을 비슷하게 하였으며 후반으로 갈수록 A와 F학점을 구분하기 힘들어 실수를 하기 쉬워진다.
+ ![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_almost.PNG)<br>
+ -게임 플레이 후반 부분-
+ <br>
+ 
+  90초동안 버티고 나면, 2000점 이상은 A학점, 1600점 이상은 B학점, 1200점 이상은 C학점, 700점 이상이 D학점이며 그 밑은 F학점을 받는다.
+ ![_config.yml]({{ site.baseurl }}/images/Hello-Scratch/scratch_end.PNG)<br>
+-게임의 끝-
+<br>
