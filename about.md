@@ -8,8 +8,8 @@ permalink: /about/
 
 ### More Information
 
-주로 개인 작업을 많이 하며, 서버와 게임 개발쪽에 관심이 많습니다.
+C#과 UNITY프로그램에 익숙하지만 JAVA, PYTHON, C, LINUX등 다른 언어도 금방 적응 가능합니다.
 
 ### Contact me
 
-[mekadog0920@gmail.com](mailto:mekadog0920@gmail.com)
+[jo0920hyejin@gmail.com](mailto:jo0920hyejin@gmail.com)
