@@ -40,9 +40,14 @@ title: 첫 번째 일인개발
 
 4. 강화 시스템<br>
 -플레이어(좌측의 캐릭터)-<br>
-//링크 삽입//<br>
+![_config.yml]({{ site.baseurl }}/images/HAproject/빨강.gif)<br>
 -펫(우측의 캐릭터)-<br>
-//링크 삽입//<br>
+1단계<br>
+![_config.yml]({{ site.baseurl }}/images/HAproject/펫1.gif)<br>
+2단계<br>
+![_config.yml]({{ site.baseurl }}/images/HAproject/펫2.gif)<br>
+3단계<br>
+![_config.yml]({{ site.baseurl }}/images/HAproject/펫3.gif)<br>
 
 
 <br>
