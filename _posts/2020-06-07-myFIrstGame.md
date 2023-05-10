@@ -12,13 +12,6 @@ title: 첫 번째 일인개발
 
 
 ---
-목차<br>
-1. 개발 계기<br>
-2. 게임 스토리 및 시작화면<br>
-3. 플레이 화면<br>
-4. 강화 시스템<br>
-5. 마무리
----
 
 
 1. 개발 계기<br>
@@ -39,10 +32,10 @@ title: 첫 번째 일인개발
 3. 플레이 화면<br>
 -기본 플레이 화면-<br>
 (사진 클릭시 유튜브로 이동됩니다)<br>
-//링크 삽입//<br><br>
+[![Video Label](https://youtu.be/-G2Howq7-cY/0.jpg)](https://youtu.be/-G2Howq7-cY)<br><br>
 -이어서 플레이 하는 화면-<br>
 (사진 클릭시 유튜브로 이동됩니다)<br>
-//링크 삽입//<br>
+[![Video Label](https://youtube.com/shorts/CDGARpcrS8k/0.jpg)](https://youtube.com/shorts/CDGARpcrS8k)<br>
 
 
 4. 강화 시스템<br>
@@ -54,5 +47,5 @@ title: 첫 번째 일인개발
 
 <br>
 5. 마무리<br>
-
+혼자 개발을 하면서 같이 의견을 나눌 사람도 없다는 것 뿐만 아니라 그래픽과 사운드도 모두 담당해야 한다는 점이 부담스러웠습니다. 그러나 오직 나만이 만들 수 있다는 생각으로 만들어 보니 생각보다 괜찮은 결과가 나와 만족하였습니다. 
 
