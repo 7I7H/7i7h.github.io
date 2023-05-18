@@ -9,6 +9,7 @@ title: 두 번째 1인개발
 프로젝트 제목: Line C!ear<br>
 플랫폼: 안드로이드 <br>
 플레이 방법: 테트리스처럼 블럭을 빈칸에 알맞게 드래그하여 넣는다. 가로나 세로 한 줄이 꽉 차면 줄이 지워지며 점수를 획득한다.<br>
+어플 다운로드 링크: [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.madhorn.lineclear)<br>
 
 ---
 ## 개발 계기
