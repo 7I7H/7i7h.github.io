@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 첫 번째 일인개발
+title: 첫 번째 1인개발
 ---
 
 인원: 1인 <br>
