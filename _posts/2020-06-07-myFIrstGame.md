@@ -9,7 +9,7 @@ title: 첫 번째 일인개발
 프로젝트 제목: 과제 뿌셔뿌셔 <br>
 플랫폼: 안드로이드<br>
 플레이 방법: 터치를 하여 재화를 획득한다. 획득한 재화를 통해 각종 기능을 강화하여 게임을 좀 더 편하게 즐기도록 한다. <br>
-
+어플 다운로드 링크: [구글 드라이브 링크](https://drive.google.com/file/d/1A4rYKduuoiER1I-MQcDEcZn4DIJ8AHE4/view?usp=share_link)<br>
 
 ---
 
